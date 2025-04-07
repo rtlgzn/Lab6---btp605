@@ -52,5 +52,5 @@ This keeps the system aligned with business needs and easier to evolve over time
 
 ---
 
-### onclusion  
+###Conclusion  
 While Transaction Scripts work for simple applications, the Domain Model pattern is the better choice for scalable, testable, and maintainable systems that must handle complex business logic.
